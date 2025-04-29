@@ -1,0 +1,100 @@
+/* CSS Styles Sheet*/
+
+* {
+   padding: 0px;
+   margin: 0px;
+   box-sizing: border-box;
+}
+
+body{
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid red;
+    width: auto;
+    height: auto;
+    box-shadow: inset;
+    background-color: bisque; 
+}
+
+.ofy{
+    background-color: blanchedalmond;
+    border: 1px solid orangered;
+}
+
+.pfry{
+    background-color: antiquewhite;
+    border: 1px solid aqua;
+}
+
+.rltsoup{
+    background-color: beige;
+    border: 1px solid pink;
+}
+
+.heading {
+    font-size: 60px;
+    color: navy;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    font-weight: 800;
+}
+
+.bb{
+    font-size: 40px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: auto;
+    border: 1px solid navy;
+    text-align: center;
+}
+
+.b1{
+    background-color: orangered;
+}
+
+.b2 {
+    background-color: pink;
+}
+
+.b3{
+    background-color: aqua; 
+}
+
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: black;
+    text-decoration: underline;
+}
+
+.mage {
+    border: 1px solid red;
+    box-shadow: inset;
+    width: 600px;
+    height: auto;
+    margin: auto;
+    rotate: 270deg;
+    display: block;
+}
+
+.hef3 {
+    font-size: 50px;
+    color: navy;
+    padding: 20px;
+    margin-left: auto;
+    font-weight: 600;
+    text-align: center;
+}
+
+.box1{
+    max-width: 700px;
+    padding: 20px;
+    margin: auto;
+}
